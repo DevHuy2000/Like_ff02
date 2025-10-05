@@ -3,7 +3,7 @@ FreeFireVersion = "OB50"
 GetLoginDataRegionMena = "https://clientbp.common.ggbluefox.com/GetLoginData"
 MajorLoginRegionMena = "https://loginbp.ggblueshark.com/MajorLogin"
 accounts = {
-    "4177262438": "4E11FC0441FDF93BC73CC016D92B14FB8F8FD56FB6158ED46ECAA6ED089AF78E"
+    "4177282777": "557E1A9CC93372FCBC7B972A0808A945453CD9B36A934C1EBDABDA007E643D1E"
 }
 from google.protobuf import descriptor as _descriptor
 from google.protobuf import descriptor_pool as _descriptor_pool
