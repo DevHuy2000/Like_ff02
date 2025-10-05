@@ -638,7 +638,7 @@ def execute_command_all():
 
     # أسماء الحسابات لكل account_id
     ghost_names = {
-        "4049479419": "sextop1.net",
+        "4049479419": "SexTop1.net",
         "4177281825": "làmtìnhkhôg",
         "4177275473": "NhỏNàyDâm"
 }
